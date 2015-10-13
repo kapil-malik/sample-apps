@@ -1,0 +1,10 @@
+.git
+.class
+.jar
+.cache
+.project
+.classpath
+/target
+/build
+.settings
+.gitignore
